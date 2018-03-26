@@ -1,0 +1,81 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Fire Escape",
+      "artist": "Andrew McMahon",
+      "likes_qty": "4",
+      "cover_url": "http://a3.mzstatic.com/eu/r30/Music42/v4/3b/de/33/3bde3376-2cb8-8f5f-a1cc-3e9173bf11c9/cover600x600.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Ultraviolet",
+      "artist": "U2",
+      "likes_qty": "18",
+      "cover_url": "https://s-media-cache-ak0.pinimg.com/originals/50/5f/1c/505f1c3c90e7dfa9950a825be09d3944.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Encore",
+      "artist": "Red Hot Chili Peppers",
+      "likes_qty": "10",
+      "cover_url": "https://images.genius.com/047e4c2909c839d4acc141d9cc746157.1000x1000x1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Shadow of the day",
+      "artist": "Linkin Park",
+      "likes_qty": "17",
+      "cover_url": "http://ringtonezzz.com/UserFiles/cover/img/Shadow_of_the_Day-Linkin_Park.jpg"
+    },
+    {
+      "id": 5,
+      "title": "On Hold",
+      "artist": "The xx",
+      "likes_qty": "6",
+      "cover_url": "https://streamd.hitparade.ch/cdimages/the_xx-on_hold_s.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Concrete and gold",
+      "artist": "Foo Fighters",
+      "likes_qty": "10",
+      "cover_url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Concrete_and_Gold_Foo_Fighters_album.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Wild Horses Run Faster",
+      "artist": "Bishop Briggs",
+      "likes_qty": "6",
+      "cover_url": "https://images.genius.com/401b1a7d39faa7906339c5b2f7ef6ddf.1000x1000x1.jpg"
+    },
+    {
+      "artist": "Kings of Leon",
+      "title": "Walls",
+      "likes_qty": "55",
+      "cover_url": "http://fasterlouder.junkee.com/wp-content/uploads/2016/10/Kings-of-Leon-Walls-2016-2480x2480.jpg",
+      "id": 8
+    },
+    {
+      "artist": "Kings of Leon",
+      "title": "Muchacho",
+      "likes_qty": "80",
+      "cover_url": "https://i1.sndcdn.com/artworks-000207567660-taa4it-t500x500.jpg",
+      "id": 9
+    },
+    {
+      "artist": "Taylor Swift",
+      "title": "Reputación",
+      "likes_qty": "3",
+      "cover_url": "http://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/Screen_Shot_2017-08-23_at_3.07.31_PM_jbvfs6/taylor-swift-album-cover-tweets.jpg",
+      "id": 10
+    },
+    {
+      "artist": "Ed Sheeran",
+      "title": "Divine",
+      "likes_qty": "3",
+      "cover_url": "http://images.genius.com/fc44439c55552eb23d4a9ecb28a21f06.1000x1000x1.jpg",
+      "id": 11
+    }
+  ]
+}
